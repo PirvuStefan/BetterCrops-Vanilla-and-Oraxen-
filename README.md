@@ -17,6 +17,15 @@ This will work on any fork of paper ( Folia, Pufferfish, Purpur ) .
 Drag the `bettercrops.jar` file into the plugin directory and start the server by running the `run.bat` or `run.sh` file ( windows/macos ) or run the `server.jar` file if you do nat have a running configuration.
 Upon the first run, it will create a direcory called BetterCrops with a `cofig.yml` file. Do not change the name of those.
 
+```text
+/
+│
+├── plugins/
+│   ├── BetterCrops/
+│      └── config.yml       
+└── 
+```
+
 # Commands
 
 ```sh
