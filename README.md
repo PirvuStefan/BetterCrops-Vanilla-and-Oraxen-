@@ -23,6 +23,7 @@ Uppon the first run, it will create a direcory called BetterCrops with a `cofig.
 /bettercrops reload
 ```
 
-After modifing the config.yml , run this command by a player/terminal .If you do not run the command, the changes will take place only on restart .
+After modifing the `config.yml` , run this command by a player/terminal .If you do not run the command, the changes will take place only on restart .
 
-This version does not work with the BetterCrops plugin, because at the moment i do not know how to integrate the API for that .
+This version does not work with the BetterCrops plugin, because at the moment I do not know how to integrate the API for that .
+Will be available on polymc and spigotmc ( if I decide to port it to spigot ) .
