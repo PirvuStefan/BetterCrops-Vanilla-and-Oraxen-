@@ -14,12 +14,15 @@ This will work on any fork of paper ( Folia, Pufferfish, Purpur )
 
 # How to use
 
-Drag the 'bettercrops.jar' file into the plugin directory and start the server by running the run.bat/run.sh file ( windows/macos ) or run the server.jar file if you do nat have a running configuration.
-Uppon the first run, it will create a direcory called BetterCrops with a config.yml file.Do not change the name of the any of this file.
+Drag the `bettercrops.jar` file into the plugin directory and start the server by running the `run.bat` or `run.sh` file ( windows/macos ) or run the `server.jar` file if you do nat have a running configuration.
+Uppon the first run, it will create a direcory called BetterCrops with a `cofig.yml` file.Do not change the name of the any of this file.
 
 # Commands
 
-## /bettercrops reload
+```sh
+/bettercrops reload
+```
 
 After modifing the config.yml , run this command by a player/terminal .If you do not run the command, the changes will take place only on restart .
 
+This version does not work with the BetterCrops plugin, because at the moment i do not know how to integrate the API for that .
