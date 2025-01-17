@@ -18,6 +18,7 @@ Drag the `bettercrops.jar` file into the plugin directory and start the server b
 Upon the first run, it will create a direcory called BetterCrops with a `cofig.yml` file. Do not change the name of those.
 
 ```text
+/
 │
 ├── plugins/
 │   ├── BetterCrops/
