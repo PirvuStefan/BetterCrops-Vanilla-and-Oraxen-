@@ -12,6 +12,13 @@ Paper is a fork of spigot, which is a fork of bukkit on its own .
 View documentation for [paper](https://docs.papermc.io/) .
 This will work on any fork of paper ( Folia, Pufferfish, Purpur ) .
 
+# Dependencies
+
+[NBT API](https://www.spigotmc.org/resources/nbt-api.7939/) ( at least version 2.14.1 )
+
+This is a soft dependency, you can stil use the plugin without it, but the compatibility with Oraxen/ItemsAdder/Nexo will not work .
+`Tag_Integration`  and `ItemList` will not work at all without it. ( view the `config.yml` ) .
+
 # How to use
 
 Drag the `bettercrops.jar` file into the plugin directory and start the server by running the `run.bat` or `run.sh` file ( windows/macos ) or run the `server.jar` file if you do not have a running configuration .
