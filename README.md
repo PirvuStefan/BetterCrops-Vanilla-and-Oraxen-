@@ -41,7 +41,4 @@ Upon the first run, it will create a direcory called BetterCrops with a `cofig.y
 
 After modifing the `config.yml` , run this command by a player/terminal . If you do not run the command, the changes will take place only on restart .
 
-This version does not work with the BetterCrops plugin, because at the moment I do not know how to integrate the API for that .
-Will be available on polymc and spigotmc ( if I decide to port it to spigot ) .
-
-Take care .
+View the config.yml for more information about the plugin itself and how it interacts with the players .
