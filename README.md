@@ -47,3 +47,9 @@ Upon the first run, it will create a direcory called BetterCrops with a `cofig.y
 After modifing the `config.yml` , run this command by a player/terminal . If you do not run the command, the changes will take place only on restart .
 
 View the config.yml for more information about the plugin itself and how it interacts with the players .
+
+# Showcase
+
+![2025-03-0613-11-30-ezgif com-optimize](https://github.com/user-attachments/assets/0904a7b2-cd7f-4fd5-894f-f995c477069b)
+
+
