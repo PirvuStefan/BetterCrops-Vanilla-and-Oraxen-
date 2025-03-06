@@ -50,6 +50,6 @@ View the config.yml for more information about the plugin itself and how it inte
 
 # Showcase
 
+
 ![2025-03-0613-11-30-ezgif com-optimize](https://github.com/user-attachments/assets/0904a7b2-cd7f-4fd5-894f-f995c477069b)
 
-da
