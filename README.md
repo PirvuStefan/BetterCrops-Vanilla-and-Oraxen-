@@ -54,6 +54,14 @@ View the config.yml for more information about the plugin itself and how it inte
 
 # Showcase
 
+Vanilla Crop Experience
 
-![2025-03-0613-11-30-ezgif com-optimize](https://github.com/user-attachments/assets/0904a7b2-cd7f-4fd5-894f-f995c477069b)
+![2025-03-0613-11-30-ezgif com-optimize](https://git![2025-03-0618-24-03-ezgif com-optimize (1)](https://github.com/user-attachments/assets/19be0d6f-80ff-4821-ab50-ffd137bf6291)
+
+CustomCrop Experience
+
+![2025-03-0618-24-03-ezgif com-optimize (1)](https://github.com/user-attachments/assets/be7ae290-3137-434f-a49d-1bc2ac84bfdd)
+
+
+
 
