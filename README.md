@@ -1,6 +1,7 @@
-# BetterCrops-Vanilla-and-Oraxen-
+# BetterCrops
 
 Version for vanilla and Oraxen/ItemsAdder/Nexo compatibility ( works with every custom plugin that enables minecraft:tag feature )
+Now also supports CustomCrops 
 
 # Compatibility
 
