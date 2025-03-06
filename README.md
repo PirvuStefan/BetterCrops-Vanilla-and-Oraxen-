@@ -56,7 +56,7 @@ View the config.yml for more information about the plugin itself and how it inte
 
 Vanilla Crop Experience
 
-![2025-03-0618-24-03-ezgif com-optimize (1)](https://github.com/user-attachments/assets/19be0d6f-80ff-4821-ab50-ffd137bf6291)
+![2025-03-0613-11-30-ezgif com-optimize](https://github.com/user-attachments/assets/2441cd33-f62d-4d1a-a7e8-79cccf6194cc)
 
 CustomCrop Experience
 
