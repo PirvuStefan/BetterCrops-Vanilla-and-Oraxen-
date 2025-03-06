@@ -19,11 +19,13 @@ This will work on any fork of paper ( Folia, Pufferfish, Purpur ) .
 [NBT API](https://www.spigotmc.org/resources/nbt-api.7939/) ( at least version 2.14.1 )
 
 This is a soft dependency, you can stil use the plugin without it, but the compatibility with Oraxen/ItemsAdder/Nexo will not work .
+
 `Tag_Integration`  and `ItemList` will not work at all without it. ( view the `config.yml` ) .
 
 [CustomCrops](https://polymart.org/resource/customcrops.2625) ( latest version 3.6.29 )
 
 This is a soft dependency, you can stil use the plugin without it, but the compatibility with CustomCrops will not work .
+
 `CustomCrops` and `CustomCropsList` will not work at all without it. ( view the `config.yml` ) .
 
 # How to use
